@@ -1,4 +1,11 @@
 """
+Code modified from a tutorial by Eric Yu
+	Base Code: https://github.com/ericyangyu/PPO-for-Beginners
+	Tutorial: https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8
+"""
+
+
+"""
 	The file contains the PPO class to train with.
 	NOTE: All "ALG STEP"s are following the numbers from the original PPO pseudocode.
 			It can be found here: https://spinningup.openai.com/en/latest/_images/math/e62a8971472597f4b014c2da064f636ffe365ba3.svg
