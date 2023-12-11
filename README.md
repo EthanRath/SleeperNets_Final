@@ -1,1 +1,2 @@
-# SleeperNets_Final
+# SleeperNets
+Code for SleeperNets project
